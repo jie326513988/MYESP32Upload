@@ -1,5 +1,5 @@
 {
     "version": "074",
-    "address": "https://gitee.com/Lichengjiez/esp32mini-mp3/raw/master/firmware.bin",
+    "address": "https://raw.githubusercontent.com/jie326513988/MYESP32Upload/refs/heads/main/firmware.bin",
     "content": "1.对8MB版本固件增加网络更新功能\n2.修复配网字体缺失"
 }
